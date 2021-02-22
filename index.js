@@ -1,1 +1,14 @@
+
+
+document.addEventListener('DOMContentLoaded', function() {
+  let text = document.getElementById('text')
+  text.innerHTML = "This is really cool!"
+});
+
+
+
+
+
+
+
 // Your code goes here
